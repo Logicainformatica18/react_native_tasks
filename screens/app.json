@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react_1",
-    "slug": "react_1",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anthonycode.react_1"
+      "package": "com.anthonycode.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "87467691-afa1-4cd2-8327-6a1363e7d5ab"
+        "projectId": "cbe2b4e5-d7fe-4994-a633-613679dc4076"
       }
     }
   }

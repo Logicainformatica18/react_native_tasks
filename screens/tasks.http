@@ -1,0 +1,35 @@
+@api = http://192.168.1.13:8000/api/tasks
+
+
+GET {{api}}
+
+###
+
+GET {{api}}/8
+
+###
+
+GET {{api}}/count
+###
+
+POST {{api}}/
+Content-Type: application/json
+
+{
+    "title": "six task",
+    "description": "holaaaaa"
+}
+
+###
+DELETE {{api}}/7
+###
+
+PUT {{api}}/1
+Content-Type: application/json
+
+{
+    "title": "i have dinneddr",
+      "description": "holaaaaa"
+}
+
+###
